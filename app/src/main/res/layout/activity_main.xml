@@ -7,7 +7,7 @@
     android:id="@+id/root_layout"
     android:gravity="center_vertical|center_horizontal"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="muhammadalief.com.example.eventhandlingexample.MainActivity">
 
     <TextView
         android:id="@+id/tvMessage"

@@ -1,4 +1,4 @@
-package srimulyaniadha.com.example.eventhandlingexample
+package muhammadalief.com.example.eventhandlingexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -26,6 +26,5 @@ class MainActivity : AppCompatActivity() {
                 Snackbar.LENGTH_LONG).show()
             true
         }
-
     }
 }
